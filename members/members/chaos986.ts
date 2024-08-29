@@ -47,4 +47,9 @@ export const chaos986: MemberObject = {
 		},
 	],
 	badges: ['Hacktoberfest2022'],
+	location: {  
+ 		latitude: 41.741089,  
+ 		longitude: -91.607628,  
+ 		title: 'North Liberty, Iowa', // optional  
+	},
 };
